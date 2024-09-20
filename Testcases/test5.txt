@@ -1,0 +1,8 @@
+<user1> initial message
+<user2> second message
+
+<user3> third message
+<user3> 
+<user1> another message
+
+This line is attributed too!

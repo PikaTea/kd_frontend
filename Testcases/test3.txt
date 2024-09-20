@@ -1,0 +1,6 @@
+<userX> first message
+<userX> second message
+<userX> third message
+This line is still attributed to userX
+<userY> userX, that's interesting!
+<userX> thanks, userY!

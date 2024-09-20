@@ -1,0 +1,51 @@
+<userA> Starting the conversation with a simple message.
+This line is still attributed to userA.
+Here’s another attributed line.
+<userB> UserB jumps in with a different perspective.
+Still attributed to userB.
+Another line attributed to userB.
+<userC> Hey, both of you! I have something important to share.
+It’s a long one, so bear with me.
+This line is still attributed to userC.
+This continues as userC has more to say on the topic.
+<userA> I’m responding to userC now.
+This line is still attributed to userA.
+<userB> Let me interject for a moment!
+Still attributed to userB.
+<userD> I’m new here, joining the discussion.
+My first input is this line.
+Still attributed to userD.
+I have another point to add, continuing the chat.
+<userC> Back to me again! Let’s get into the details:
+1. First, we need to consider scalability.
+2. Second, let’s not forget about performance.
+3. Lastly, security is a key concern.
+This line is still attributed to userC.
+<userE> Hello everyone, this is userE joining in.
+I’ll keep my message short.
+Still attributed to userE.
+<userA> Here’s userA with a brief follow-up.
+This line is attributed to userA.
+<userF> userF coming in late, sorry for that!
+This line is still attributed to userF.
+I wanted to mention that testing is crucial too.
+Still attributed to userF.
+<userD> UserD agrees with userF’s point on testing.
+This line is still attributed to userD.
+More thoughts coming in from userD.
+<userC> Thanks, everyone, for contributing.
+This discussion is getting lively!
+Still attributed to userC.
+Let’s wrap things up with some actionable steps.
+1. Create a roadmap.
+2. Assign tasks.
+3. Set deadlines.
+This line is still attributed to userC.
+<userE> I’ll volunteer for task 1.
+This is still attributed to userE.
+<userF> I can take task 2.
+This line is still attributed to userF.
+<userA> Wrapping up from userA’s side.
+Thanks for the great discussion!
+This line is still attributed to userA.
+A final note to end the chat.

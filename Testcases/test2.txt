@@ -1,0 +1,7 @@
+<userA> hello world
+<userB> how are you?
+This line is attributed to userB
+<userC> I love programming!
+<userA> yes, programming is great!
+This line is also attributed.
+<userB> what's your favorite language?

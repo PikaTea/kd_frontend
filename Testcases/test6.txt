@@ -1,0 +1,5 @@
+<userE> Let's test special characters: @#$%^&*
+<userF> UserE, that was unexpected!
+This line is attributed
+<userE> Just having some fun!
+<userG> Agreed, fun is important.
