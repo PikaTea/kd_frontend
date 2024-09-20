@@ -1,4 +1,4 @@
-# kidydult_test
+# kidydult_frontend
 
 ## Project setup
 ```
